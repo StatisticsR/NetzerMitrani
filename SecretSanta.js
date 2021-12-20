@@ -1,6 +1,6 @@
 var SecretSanta = function () {
 
-    this.names = [];
+    this.names = ["ori","shay","omer"];
 
     this.enforced = Object.create( null );
     this.blacklists = Object.create( null );
